@@ -62,6 +62,8 @@ Below is a s small list of websites that contain additional challenges
 
 <details>
  
+- - - -
+
 Easy:   
 - - [ ] Markov Chain Sentence Generator (Include Shitposting Capabilities)
 - - [ ] To-Do List Application (Web app or CLI)
@@ -133,6 +135,8 @@ Extreme:
 
 <details>
 
+- - - -
+
 Easy:
 - - [ ] Fizzbuzz
   - - [ ] **BONUS**: In Assembly
@@ -172,6 +176,8 @@ Medium:
 
 <details>
 
+- - - -
+
 Easy:
 - - [ ] Basic Neural Network - Simulate individual neurons and their connections
 
@@ -191,6 +197,8 @@ Difficult:
 ## Compiler/Interpreter/Debugger :computer:
 
 <details>
+
+- - - -
 
 Medium:
 - - [ ] Virtual Machine with a Script that Writes "Hello, world"
@@ -218,6 +226,8 @@ Extreme:
 ## Emulation/Modeling :house_with_garden:
 
 <details>
+
+- - - -
 
 Easy:
 - - [ ] Generate a Complimentary Color from any input color
@@ -250,6 +260,8 @@ Extreme:
 ## Games :video_game:
 
 <details>
+ 
+ - - - -
  
 Easy:
 - - [ ] Snake
