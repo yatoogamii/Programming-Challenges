@@ -1,7 +1,7 @@
-# Pro/g/ramming Challenges
+# :fire: Pro/g/ramming Challenges :fire:
 A community project of programming challenges 
 
-# HOW-TO-Guide
+# HOW-TO-Guide :warning:
 <details>
  
 ##  Use git and an eternal website to push on
@@ -58,7 +58,7 @@ Below is a s small list of websites that contain additional challenges
 - www.programmingpraxis.com
 </details>
 
-## Pratical
+## Pratical :hammer:
 
 <details>
  
@@ -129,7 +129,7 @@ Extreme:
 
 </details>
 
-## Algorithmic
+## Algorithmic :rocket:
 
 <details>
 
@@ -168,7 +168,7 @@ Medium:
 
 </details>
 
-## Artificial Intelligence
+## Artificial Intelligence :books:
 
 <details>
 
@@ -188,7 +188,7 @@ Difficult:
 
 </details>
 
-## Compiler/Interpreter/Debugger
+## Compiler/Interpreter/Debugger :computer:
 
 <details>
 
@@ -215,7 +215,7 @@ Extreme:
 
 </details>
 
-## Emulation/Modeling
+## Emulation/Modeling :house_with_garden:
 
 <details>
 
@@ -247,7 +247,7 @@ Extreme:
 
 </details>
 
-## Games
+## Games :video_game:
 
 <details>
  
