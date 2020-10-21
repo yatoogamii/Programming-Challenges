@@ -2,6 +2,7 @@
 A community project of programming challenges 
 
 # HOW-TO-Guide
+<details>
  
 ##  Use git and an eternal website to push on
 - Learn to use git and commit early and often. Optionally, use a website to push your work to (such as GitHub). The most important thing is to build a portfolio
@@ -55,9 +56,12 @@ Below is a s small list of websites that contain additional challenges
 - www.codeabbey.com
 - www.codingbat.com
 - www.programmingpraxis.com
+</details>
 
 ## Pratical
 
+<details>
+ 
 Easy:   
 - - [ ] Markov Chain Sentence Generator (Include Shitposting Capabilities)
 - - [ ] To-Do List Application (Web app or CLI)
@@ -123,7 +127,11 @@ Extreme:
 - - [ ] Basic Relational Database Software (SQL Support, Handle Relationships, Focus on Efficiency)
 - - [ ] 
 
+</details>
+
 ## Algorithmic
+
+<details>
 
 Easy:
 - - [ ] Fizzbuzz
@@ -158,7 +166,11 @@ Medium:
 - - [ ] Calculate the first 1.000 digits of pi iteratively
 - - [ ] Mandlebrot Set
 
+</details>
+
 ## Artificial Intelligence
+
+<details>
 
 Easy:
 - - [ ] Basic Neural Network - Simulate individual neurons and their connections
@@ -174,7 +186,11 @@ Difficult:
 - - [ ] OpenAI Gym project
 - - [ ] Convolutional Neural Network: Implement your own convolutional neural network for handwritten digit recognition, test, on MNIST Dataset (Without TensorFlow, Theano, etc...)
 
+</details>
+
 ## Compiler/Interpreter/Debugger
+
+<details>
 
 Medium:
 - - [ ] Virtual Machine with a Script that Writes "Hello, world"
@@ -197,7 +213,11 @@ Difficult:
 Extreme:
 - - [ ] Basic Bootloader (with extended file system)
 
+</details>
+
 ## Emulation/Modeling
+
+<details>
 
 Easy:
 - - [ ] Generate a Complimentary Color from any input color
@@ -225,8 +245,12 @@ Extreme:
 - - [ ] Chip - 8 Emulator (with Dynamic Recompiler, use dynarec/jit library)
 - - [ ] General Lambert's-Problem Solver (At least it's not rocket science... Oh wait, it actually is)
 
+</details>
+
 ## Games
 
+<details>
+ 
 Easy:
 - - [ ] Snake
 - - [ ] Rock Paper Scissors
@@ -262,3 +286,5 @@ Difficult:
 - - [ ] Danmaku (Bullet Hell) Engine
 - - [ ] Roguelike Engine/Dungeon Generator
 - - [ ] Go (No AI Necessary)
+
+</details>
