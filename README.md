@@ -7,6 +7,13 @@ A community project of programming challenges
 - [Guidelines](#guidelines)
 - [Challenges](#challenges)  
   - [Pratical](#pratical-hammer)
+  - [Algorithmic](#algorithmic-rocket)
+  - [Artificial Intelligence](#artificial-intelligence-books)
+  - [Compiler/Interpreter/Debugger](#compiler/interpreter/debugger-computer)
+  - [Emulation/Modeling](#emulation/modeling-house_with_garden)
+  - [Games](#games-video_game)
+  
+
 
 # How to Participate
 
