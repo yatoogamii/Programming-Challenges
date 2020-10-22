@@ -1,6 +1,13 @@
 # :fire: Pro/g/ramming Challenges :fire:
 A community project of programming challenges 
 
+# Table of contents
+
+1. [Pratical :hammer:](#Pratical-:hammer:)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+
 # HOW-TO-Guide :warning:
 <details>
  
@@ -58,7 +65,7 @@ Below is a s small list of websites that contain additional challenges
 - www.programmingpraxis.com
 </details>
 
-## Pratical :hammer:
+# Pratical :hammer:
 
 <details>
  
@@ -131,7 +138,7 @@ Extreme:
 
 </details>
 
-## Algorithmic :rocket:
+# Algorithmic :rocket:
 
 <details>
 
@@ -172,7 +179,7 @@ Medium:
 
 </details>
 
-## Artificial Intelligence :books:
+# Artificial Intelligence :books:
 
 <details>
 
@@ -194,7 +201,7 @@ Difficult:
 
 </details>
 
-## Compiler/Interpreter/Debugger :computer:
+# Compiler/Interpreter/Debugger :computer:
 
 <details>
 
@@ -223,7 +230,7 @@ Extreme:
 
 </details>
 
-## Emulation/Modeling :house_with_garden:
+# Emulation/Modeling :house_with_garden:
 
 <details>
 
@@ -257,7 +264,7 @@ Extreme:
 
 </details>
 
-## Games :video_game:
+# Games :video_game:
 
 <details>
  
