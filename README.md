@@ -127,7 +127,6 @@ Difficult:
 Extreme:
 - - [ ] Sound Synthesis (Sine, square, sawtooth, etc...) mode: Realtime MIDI Playback with Custom instruments
 - - [ ] Basic Relational Database Software (SQL Support, Handle Relationships, Focus on Efficiency)
-- - [ ] 
 
 </details>
 
