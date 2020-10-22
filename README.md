@@ -1,13 +1,6 @@
 # :fire: Pro/g/ramming Challenges :fire:
 A community project of programming challenges 
 
-# Table of contents
-
-1. [Pratical :hammer:](#Pratical-:hammer:)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
 # HOW-TO-Guide :warning:
 <details>
  
