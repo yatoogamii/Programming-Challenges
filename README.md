@@ -1,5 +1,6 @@
 # :fire: Pro/g/ramming Challenges :fire:
-A community project of programming challenges 
+A community project of programming challenges based on this  
+![Image of Pro/g/ramming Challenges](image/programming-challenges.png)
 
 # Table of contents
 
