@@ -19,6 +19,7 @@ A community project of programming challenges
 
 1. fork the project
 2. submit issus to tell me you participe and send me the link of your fork
+3. when you finish a project, check the corresponding box in the README in your fork
 
 # Guidelines
   
