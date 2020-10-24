@@ -21,10 +21,7 @@ A community project of programming challenges
 2. submit issus to tell me you participe and send me the link of your fork
 
 # Guidelines
- 
-##  Use git and an eternal website to push on
-- Learn to use git and commit early and often. Optionally, use a website to push your work to (such as GitHub). The most important thing is to build a portfolio
- 
+  
 ## Understand the problem
 - Do your own research. It’s an incredibly useful kill which can be applied to and can be applied to anything else. 
 
