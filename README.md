@@ -74,7 +74,7 @@ Below is a s small list of websites that contain additional challenges
 
 # Challenges
 
-An list of programming challenges with 4 difficulty
+An list of programming challenges with 4 difficulties
 
 ## Pratical :hammer:
  
